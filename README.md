@@ -10,8 +10,6 @@ I am a Pre-Final year BTech student specializing in Electronics and Communicatio
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com?user=ShreyaGupta5&theme=tokyonight&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=ShreyaGupta5&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyaGupta5&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShreyaGupta5&theme=tokyonight)
