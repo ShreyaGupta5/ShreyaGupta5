@@ -11,14 +11,14 @@ I am a Pre-Final year BTech student specializing in Electronics and Communicatio
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=ShreyaGupta5&theme=dark&hide_border=true&background=000000&ring=FF9800&fire=FF9800&currStreakLabel=FF9800&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=ShreyaGupta5&theme=dark&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BDBDBD"
     alt="GitHub Streak Stats"
   />
 </p>
 
 <p align="center">
-  <img 
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShreyaGupta5&theme=tokyonight"
     alt="GitHub Profile Details"
   />
