@@ -12,7 +12,7 @@ I am a Pre-Final year BTech student specializing in Electronics and Communicatio
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=ShreyaGupta5&theme=dark&hide_border=true&background=000000&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BDBDBD"
+    src="https://streak-stats.demolab.com/?user=ShreyaGupta5&theme=dark&hide_border=true&background=000000&ring=FF9800&fire=FF9800&currStreakLabel=FF9800&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"
     alt="GitHub Streak Stats"
   />
 </p>
