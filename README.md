@@ -12,7 +12,7 @@ I am a Pre-Final year BTech student specializing in Electronics and Communicatio
 
 <p align="center">
   <img 
-    src="./profile/streak.svg"
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=ShreyaGupta5"
     alt="GitHub Streak Stats"
   />
 </p>
